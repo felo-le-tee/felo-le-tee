@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 
 💬 Ask me about Python, web development (HTML, CSS, PHP, SQL), Git, ethical hacking, and networking
 
-📫 How to reach me: [fogen920@gmail.com or LinkedIn here]
-
-😄 Pronouns: He/Him
+📫 How to reach me: [fogen920@gmail.com]
 
 ⚡ Fun fact: I enjoy turning complex problems into simple, elegant solutions—and I have a thing for crunchy snacks 🍪!
